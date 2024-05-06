@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.Scanner;
 
 public class ahorcado {
-
+//Prueba
     public static void main(String[] args) {
         //Se declaran variables
         Scanner in = new Scanner(System.in);
