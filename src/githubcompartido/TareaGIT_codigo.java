@@ -5,6 +5,8 @@ import java.util.Scanner;
 public class TareaGIT_codigo {
 
     public static void main(String[] args) {
+        String cambio="Esta variable la ha escrito Daniel ";
+        System.out.println(cambio);
         /*ENUNCIADO
             Pida 10 números por teclado y saque lo siguiente por pantalla: 
                 - Suma de esos 10 números.
